@@ -1,5 +1,4 @@
 Test Git Quick Start demo
-use for new branch
 add copyright
 Adding changes before rebasing conflicts
 # TEAM 
