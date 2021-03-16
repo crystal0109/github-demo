@@ -1,11 +1,11 @@
 Test Git Quick Start demo
 add copyright
-Adding changes before rebasing conflicts
+Updating Title for Stach Example
 # TEAM 
 
 Crystal An 
 Bin Xu
-BInwei Xu
+
 # Thanks 
  all my students!
 
