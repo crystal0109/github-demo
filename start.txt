@@ -1,4 +1,4 @@
-Test Git Quick Start demo
+Title for Tagging Examples
 add copyright
 Updating Title for Stach Example
 # TEAM 
