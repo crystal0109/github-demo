@@ -1,12 +1,11 @@
 Test Git Quick Start demo
 use for new branch
 add copyright
-some silly changes from master branch
+Adding changes before rebasing conflicts
 # TEAM 
 
 Crystal An 
-Xueqian 
+Bin Xu
 
 # Thanks 
-
  all my students!
