@@ -1,7 +1,9 @@
 Test Git Quick Start demo
-use for new branch
+A great website
 add copyright
 
 # TEAM 
 
 Crystal An 
+
+Some interesting stuu goes here
