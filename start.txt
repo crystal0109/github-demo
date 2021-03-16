@@ -8,10 +8,5 @@ Bin Xu
 BInwei Xu
 # Thanks 
  all my students!
-<<<<<<< HEAD
- 
- HAHAHA
-=======
 
  copyright 2021 Aitou.io. All rights reserved.
->>>>>>> 4602117 (local: updating start.txt copyright)
